@@ -25,7 +25,7 @@ By turning abstract ideas into immersive experiences, this app empowers both **s
 Due to GitHub size limits, only essential scripts are included here.  
 📩 If you need the **full Unity + Vuforia project**, feel free to **email me** and I’ll share it via cloud storage.
 
-📱 **[Download the app here](#)** *(Insert your app download link)*
+📱 **[Download the app here](#)** *(https://drive.google.com/file/d/1RplyN2X-QmMFdmdv_sr58nSUfebRkcpu/view)*
 
 ---
 
@@ -58,7 +58,7 @@ Refer to the included PDF for complete details on:
 ## 📬 Contact
 
 For questions or access to the full project:  
-📧 **[YourEmail@example.com]**
+📧 **[cnsswaroop@gmail.com]**
 
 ---
 
