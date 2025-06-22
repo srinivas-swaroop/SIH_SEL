@@ -29,16 +29,6 @@ Due to GitHub size limits, only essential scripts are included here.
 
 ---
 
-## 🧭 How to Use
-
-1. Clone this repo.
-2. Open a Unity project (version compatible with this repo).
-3. Import the scripts and assets.
-4. Use the provided image targets to test the AR experience.
-5. Refer to the PDF documentation for setup details.
-
----
-
 ## 🖼️ Image Targets
 
 Image targets required for the AR experience are included in the repo. You can print or display them on a screen to test.
